@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/niteshyadav585/">
   <img align="left" alt="niteshyadav585-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/rohit.rkshakya/	">
+<a href="https://www.instagram.com/niteshyadav585/">
   <img align="left" alt="niteshyadav585" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/niteshyadav/">

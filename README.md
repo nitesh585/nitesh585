@@ -17,7 +17,7 @@ I'm currently an MSc student at Department of Computer Science, University of De
 <br />
 
 - 🔭 I’m currently working on Digital Image Processing, Flutter and an E-commerce website
-- 🔭 Seft-taught Machine learning practitioner
+- 🔭 Seft-taught Machine learning practitioner and full stack developer
 - 📫 How to reach me: niteshyadav585.com
 - 😄 Always ready to share knowledge
 

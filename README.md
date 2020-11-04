@@ -16,10 +16,10 @@
 I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about software development and a Machine learnig enthusiastic. Always eager to participate in hackathons especially in Machine learning hackathons.
 <br />
 
-- 🔭 I’m currently working on Digital Image Processing, Flutter and an E-commerce website
-- 🔭 Seft-taught Machine learning practitioner and full stack developer
+- 🔭 I’m currently working on Digital Image Processing, Flutter and an E-commerce website.
+- 🔭 Seft-taught Machine learning practitioner and full stack developer.
 - 📫 How to reach me: niteshyadav585.com
-- 😄 Always ready to share knowledge
+- 😄 Always ready to share knowledge.
 
 #
 ![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=nitesh585&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -27,6 +27,6 @@ I'm currently an MSc student at Department of Computer Science, University of De
 #
 <div align="center">
 
-### Explore my repositories to know more about me
+### Explore my repositories to know more about me.
 
 </div>

@@ -11,8 +11,6 @@
 </a>
 <br />
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nitesh585.nitesh585)
-
 I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about software development and a Machine learnig enthusiastic. Always eager to participate in hackathons especially in Machine learning hackathons.
 <br />
 

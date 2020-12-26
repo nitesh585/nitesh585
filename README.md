@@ -10,6 +10,7 @@
   <img align="left" alt="nitesh/fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
+<br>
 
 I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about software development and a Machine learnig enthusiastic. Always eager to participate in hackathons especially in Machine learning hackathons.
 <br />

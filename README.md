@@ -14,7 +14,6 @@
 
 I'm currently an MSc student at Department of Computer Science, University of Delhi. Passionate about software development and a Machine learnig enthusiastic. Always eager to participate in hackathons especially in Machine learning hackathons.
 <br />
-
 - 🔭 I’m currently working on Digital Image Processing, Flutter and an E-commerce website.
 - 🔭 Seft-taught Machine learning practitioner and full stack developer.
 - 📫 How to reach me: niteshyadav585@gmail.com
@@ -23,6 +22,6 @@ I'm currently an MSc student at Department of Computer Science, University of De
 #
 <div align="center">
 
-### Explore my repositories to know more about me.
+### Explore my repositories.
 
 </div>

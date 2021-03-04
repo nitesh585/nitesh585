@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/nitesh585/nitesh585/blob/main/gifs/HI.gif" width="30px"></h2>
+## Hello World!
 
 <a href="https://www.linkedin.com/in/niteshyadav585/">
   <img align="left" alt="niteshyadav585-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

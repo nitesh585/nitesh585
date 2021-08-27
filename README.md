@@ -11,10 +11,10 @@
 </a>
 <br />
 <br>
+An extroverted programmer, who tries to be better each day. I have a keen interest in building end-to-end products and solve real-life problems and make life easier for people. 
 
-I'm currently an MSc student at Department of Computer Science, University of Delhi. Passionate about software development and a Machine learnig enthusiastic. Always eager to participate in hackathons especially in Machine learning hackathons.
+In my free time, I learn new things and try to contribute to the community.
 <br />
-- 🔭 I’m currently working on Digital Image Processing and Python Back-End Development.
 - 🔭 Seft-taught Machine learning practitioner and full stack developer.
 - 📫 Reach me: niteshyadav585@gmail.com
 - 😄 Always ready to share knowledge.

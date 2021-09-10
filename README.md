@@ -1,27 +1,30 @@
-## Hello World!
+<h2>Hi, I'm Nitesh Yadav!</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.truminds.com/">Truminds Software Systems</a></em></p>
 
-<a href="https://www.linkedin.com/in/niteshyadav585/">
-  <img align="left" alt="niteshyadav585-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/niteshyadav585/">
-  <img align="left" alt="niteshyadav585" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/niteshy585">
-  <img align="left" alt="nitesh/fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br />
-<br>
-An extroverted programmer, who tries to be better each day. I have a keen interest in building end-to-end products and solve real-life problems and make life easier for people. 
+[![Twitter Follow](https://img.shields.io/twitter/follow/im_niteshy?label=Follow)](https://twitter.com/intent/follow?screen_name=im_niteshy)
+[![Linkedin: nitesh](https://img.shields.io/badge/-nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niteshyadav585/)](https://www.linkedin.com/in/niteshyadav585/)
+![GitHub followers](https://img.shields.io/github/followers/nitesh585?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=nitesh585.nitesh585)
 
-In my free time, I learn new things and try to contribute to the community.
-<br />
-- 🔭 Seft-taught Machine learning practitioner and full stack developer.
-- 📫 Reach me: niteshyadav585@gmail.com
-- 😄 Always ready to share knowledge.
+```javascript
+const nitesh = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "C++", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "machine learning"],
+    technologies: {
+        backEnd: {
+            js: ["Flask", "Node", "Express"],
+        },
+        frontEnd: {
+            js: ["Reactjs"]
+        },
+        databases: ["mongo", "mysql", "sqlite", "redis", "tinyDB"],
+        misc: ["firebase", "socket.io", "selenium", "bash"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Web Development",
+    funFact: "Don't be proud until you deployed an application in production;"
+};
+```
 
-#
-<div align="center">
-
-### Explore my repositories.
-
-</div>

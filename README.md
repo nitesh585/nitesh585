@@ -14,13 +14,13 @@ const nitesh = {
     askMeAbout: ["web dev", "tech", "app dev", "machine learning"],
     technologies: {
         backEnd: {
-            js: ["Flask", "Node", "Express"],
+            js: ["Flask","Django", "Node", "Express"],
         },
         frontEnd: {
-            js: ["Reactjs"]
+            js: ["Reactjs", "TailwindCSS"]
         },
         databases: ["mongo", "mysql", "sqlite", "redis", "tinyDB"],
-        misc: ["firebase", "socket.io", "selenium", "bash"]
+        misc: ["firebase", "socket.io", "selenium", "pytest", "bash"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Development",

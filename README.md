@@ -10,11 +10,13 @@
 ```javascript
 const nitesh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C++", "HTML", "CSS"],
+    code: ["Javascript", "Python", "Go", "Java", "C++", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "machine learning"],
     technologies: {
         backEnd: {
-            js: ["Flask","Django", "Node", "Express"],
+            js: [ "Node", "Express"],
+            python: ["Flask","Django"],
+            go: ["go"]
         },
         frontEnd: {
             js: ["Reactjs", "TailwindCSS"]

@@ -22,7 +22,7 @@ const nitesh = {
             js: ["Reactjs", "TailwindCSS"]
         },
         databases: ["mongo", "mysql", "sqlite", "redis", "tinyDB"],
-        misc: ["firebase", "socket.io", "selenium", "pytest", "bash"]
+        misc: ["firebase", "socket.io", "selenium", "pytest", "bash", "sonarqube", "GRpc","Microservice"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Development",

@@ -1,6 +1,6 @@
 <h2>Hi, I'm Nitesh Yadav!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.truminds.com/">Truminds Software Systems</a></em></p>
+<p><em>Software Engineer at <a href="https://aws.amazon.com/">Amazon (AWS)</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/im_niteshy?label=Follow)](https://twitter.com/intent/follow?screen_name=im_niteshy)
 [![Linkedin: nitesh](https://img.shields.io/badge/-nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niteshyadav585/)](https://www.linkedin.com/in/niteshyadav585/)
